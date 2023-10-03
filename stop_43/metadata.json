@@ -1,0 +1,11 @@
+{
+  "name":"tiles",
+  "description":"",
+  "version":2,
+  "minzoom":15,
+  "maxzoom":18,
+  "center":"52.6598211,58.1312582,0",
+  "bounds":"52.5859323,58.1095383,52.7337098,58.1529781",
+  "type":"overlay",
+  "format":"mvt"
+}
